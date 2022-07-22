@@ -10,7 +10,7 @@ function GetVeeamConnectedHosts {
     $ConnectedHostsStr
 
     #Uncomment if you want to store in file
-    #$ConnectedHostsStr | Out-File -FilePath E:\execbeat-3.3.0-windows-x86_64\VBRBackup.txt -Append
+    #$ConnectedHostsStr | Out-File -FilePath E:\execbeat-3.3.0-windows-x86_64\VBRServer.txt -Append
   }
 	
 }
